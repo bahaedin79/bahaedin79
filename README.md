@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Bahaedin  <br>😎 Junior Front-end Developer  <br>🚀 Passionate about **React** & **Next.js**  <br>🎨 UI/UX Enthusiast  <br>📚 Currently learning **React.js**  <br>🎯 Goal: Become an advanced developer & share knowledge with free content</p>
+<p align="left">👋 Hi, I’m Bahaedin  <br>😎 Junior Front-end Developer  <br>🚀 Passionate about **React** & **Next.js**  <br>🎨 UI/UX Enthusiast  <br>📚 Currently deepening my knowledge in **React.js**  <br>🎯 Goal: Grow as a developer & share free content with the community</p>
 
 ###
 
