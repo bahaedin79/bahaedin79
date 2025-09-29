@@ -42,8 +42,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Contact Me</h2>
 
 ###
