@@ -11,18 +11,7 @@ Front-end Developer
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="css logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="css logo"  />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="css logo"  />
- </div>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,vue,flutter&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react&perline=6)](https://skillicons.dev)
 
 
 ###
