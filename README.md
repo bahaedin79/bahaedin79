@@ -6,18 +6,30 @@ Front-end Developer
 <p align="left">👋 Hi, I’m Bahaedin  <br>😎 Front-end Developer  <br>🚀 Passionate about **React** & **Next.js**  <br>🎨 UI/UX Enthusiast  <br>📚 Currently deepening my knowledge in *React.js*  <br>🎯 Goal: Grow as a developer & share free content with the community</p>
 
 ###
+
 <h2 align="left">I Code With :</h2>
+
 ###
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,nextjs)](https://skillicons.dev)
 
 
 
+###
+
 <h2 align="left">I Work With :</h2>
+
+###
+
 [![My Skills](https://skillicons.dev/icons?i=npm,pnpm,vscode,vite,git,figma,supabase,firebase,postman,tauri)](https://skillicons.dev)
 
 
+###
+
 <h2 align="left">Love To Know More About  :</h2>
+
+###
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,express)](https://skillicons.dev)
 
 
