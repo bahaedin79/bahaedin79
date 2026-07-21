@@ -1,9 +1,9 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bahaedin
-Junior Front-end Developer
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bahaedinو
+Front-end Developer
 ###
 
-<p align="left">👋 Hi, I’m Bahaedin  <br>😎 Junior Front-end Developer  <br>🚀 Passionate about **React** & **Next.js**  <br>🎨 UI/UX Enthusiast  <br>📚 Currently deepening my knowledge in **React.js**  <br>🎯 Goal: Grow as a developer & share free content with the community</p>
+<p align="left">👋 Hi, I’m Bahaedin  <br>😎 Front-end Developer  <br>🚀 Passionate about **React** & **Next.js**  <br>🎨 UI/UX Enthusiast  <br>📚 Currently deepening my knowledge in *React.js*  <br>🎯 Goal: Grow as a developer & share free content with the community</p>
 
 ###
 
