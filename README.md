@@ -22,7 +22,7 @@ Front-end Developer
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="css logo"  />
  </div>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,vue,flutter&perline=5)]
 
 ###
 
