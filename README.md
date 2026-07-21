@@ -20,19 +20,10 @@ Front-end Developer
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
+tauri
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,vite,figma,supabase,firebase,postman,tauri&perline=6)](https://skillicons.dev)
+
 
 ###
 
