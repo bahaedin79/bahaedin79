@@ -13,23 +13,14 @@ Junior Front-end Developer
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="css logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="css logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="css logo"  />
-  
-  
-</div>
+ </div>
 
 ###
 
