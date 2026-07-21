@@ -22,6 +22,8 @@ Junior Front-end Developer
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="css logo"  />
  </div>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ###
 
 <h2 align="left">I Work With :</h2>
